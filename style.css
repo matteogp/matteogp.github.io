@@ -3,6 +3,10 @@
   margin: 120px auto;
 }
 
+#selfie {
+  width: 300px;
+}
+
 #line {
   position: absolute;
   left: 0;
