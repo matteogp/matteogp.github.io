@@ -16,10 +16,14 @@
   background-color: #0066CC;
 }
 
+body {
+    font-family: 'Lato', sans-serif;
+}
+
 h1 {
   font-size: 36px;
   margin-bottom: 8px;
-  color: #8866CC;
+  color: #0066CC;
 }
 
 .subtext {
