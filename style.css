@@ -17,14 +17,14 @@
   background-color: #0066CC;
 }
 
-#navbar {
+navbar {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;               
   justify-content: space-between; 
 }
 
-#header {
+header {
   position: fixed;
 }
 
