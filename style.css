@@ -37,10 +37,12 @@ navbar {
 header {
   position: fixed;
   background-color: #FFFFFF;
+  height: 200px;
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+  padding-top:200px;
+  font-family: 'Lato', sans-serif;
 }
 
 h1 {
