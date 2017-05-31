@@ -23,18 +23,20 @@ navbar {
   flex-direction: row;
   flex-wrap: wrap;               
   justify-content: space-between; 
-  position: fixed;
-  background-color: #FFFFFF;
 }
 
 .nav {
-  flex: 0 0 80px;                /* No grow/shrink, 140px width */
-  height: 40x;
+  flex: 0 0 140px;                /* No grow/shrink, 140px width */
+  height: 80x;
   margin-bottom: 5px;
   background-color: #7AA3CC;
   text-align: center;
 }
 
+header {
+  position: fixed;
+  background-color: #FFFFFF;
+}
 
 body {
     font-family: 'Lato', sans-serif;
