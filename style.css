@@ -23,9 +23,6 @@ navbar {
   flex-direction: row;
   flex-wrap: wrap;               
   justify-content: space-between; 
-}
-
-header {
   position: fixed;
   background-color: #FFFFFF;
 }
