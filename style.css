@@ -30,8 +30,8 @@ header {
 }
 
 .nav {
-  flex: 0 0 80px;                /* No grow/shrink, 140px width */
-  height: 40px;
+  flex: 0 0 20px;                /* No grow/shrink, 140px width */
+  height: 15px;
   margin-bottom: 5px;
   background-color: #7AA3CC;
   text-align: center;
