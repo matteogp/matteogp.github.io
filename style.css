@@ -19,6 +19,7 @@ navbar {
   flex-wrap: wrap;               
   justify-content: space-between; 
   width: 100%;
+
 }
 
 .nav {
@@ -26,8 +27,13 @@ navbar {
   height: 80x;
   margin-top: 5px;
   margin-bottom: 5px;
-  background-color: #7AA3CC;
+  background-color: #83bdd9;
   text-align: center;
+  transition: 0.2s background-color;
+}
+
+.nav:hover {
+  background-color: #0066CC;
 }
 
 header {
@@ -40,7 +46,6 @@ header {
 
 main {
   padding-top: 100px;
-  font-family: 'Lato', sans-serif;
 }
 
 h1 {
@@ -57,4 +62,8 @@ h1 {
 h2 {
   font-size: 24px;
   margin: 40px 0 8px 0;
+}
+
+body {
+  font-family:'Lato', sans-serif;
 }
