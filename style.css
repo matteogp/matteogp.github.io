@@ -39,7 +39,8 @@ navbar {
 header {
   top: -10;
   position: fixed;
-  background-color: #FFFFFF;
+  background-color: rgb(204, 255, 204);
+  background-colour: rgba(204, 255, 204, 0.35);
   width: 100%;
   text-align: center;
 }
