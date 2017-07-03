@@ -3,7 +3,7 @@
   margin: 120px auto;
 }
 
-#selfie {
+img {
   size: 66%;
 }
 
@@ -36,6 +36,10 @@ navbar {
   background-color: #0066CC;
 }
 
+.background {
+
+}
+
 header {
   top: -10;
   position: fixed;
@@ -45,22 +49,34 @@ header {
   text-align: center;
 }
 
-main {
- display: flex;
-  padding: 20px;
-  padding-top: 100px;
-  margin: auto;
-  width 85%;
+footer {
   position:absolute;
-  left: 10%;
-  right: 10%;
-  flex-wrap: wrap;
+  background-color: rgb(109, 247, 198);
+  background-color: rgba(109, 247, 198, 0.65);
+  width: 100%;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+  background: linear-gradient(to bottom, #4ef761 0%,#adf4b4 40%,#a4f4d7 63%,#6cf7c6 100%); 
+  padding-top: 100px;
+  width 100%;
+  height: 1200px;
+
+
 }
 
 h1 {
   font-size: 36px;
   margin-bottom: 8px;
   color: #0066CC;
+}
+
+h2 {
+  font-size: 22px;
+  margin-bottom: 6px;
+  color: #2c52a0;
 }
 
 .subtext {
@@ -76,3 +92,4 @@ h2 {
 body {
   font-family:'Lato', sans-serif;
 }
+
