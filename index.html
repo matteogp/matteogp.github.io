@@ -1,48 +1,59 @@
+<!DOCTYPE html>
 <html lang="en-CA">
   <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
     <title>Matteo Palarchio</title>
     <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
   </head>
   <body>
-    <header>
-      <h1>Matteo Palarchio - v0.15</h1>
-      <div class="subtext">
-       University of Waterloo • Hack The North • St. Jerome's University
+    <div class="container">
+      <h1>Matteo Palarchio</h1>
+      <div class="subtext"> 2A Computer Science // Univeristy of Waterloo   </div>
+      <div id="line"> </div>
+
+      <br>
+      <p>Hi, I'm Matteo 👋 <br>
+        I'm a second year Computer Science student at the University of Waterloo.
+        I have a passion for solving problems, and working with groups that want to make an impact.
+      </p>
+      <br>
+      <h2> Involvement </h2>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="thumbnail" color: #67daff>
+            <a href="hack-the-north.html">
+              <img src="images/htn-color-logo.svg"
+                alt="Hack the North"
+                style="width:50%">
+              <div class="caption">
+                <p>Hack the North</p>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="thumbnail" color: #5efc82>
+            <a href="sju-students-union.html">
+              <img src="images/sjusu-logo.png"
+                alt="St. Jereome's University Students' Union"
+                style="width:50%">
+              <div class="caption">
+                <p>Students' Union</p>
+              </div>
+            </a>
+          </div>
+        </div>
       </div>
-      <div id="line"></div>
-      <navbar>
-        <div class = "nav" href = "/" >Home</div>
-        <div class = "nav">About</div>
-        <div class = "nav">Involvement</div>
-        <div class = "nav">Projects</div>
-        <div class = "nav">Contact</div>  
-       </navbar> 
-       <div id="line"></div>
-    </header>
-    <main>
-     <figure>
-        <img id = "selfie" src = "images/Matteo Palarchio.jpg">  
-        <figcaption> Its's me!</figcaption>
-     </figure>
-     <section name = "about" id = "lsec">
-      <h2>About</h2>
-      <div id="line"> </div>
-      
-        <p> Let me talk about myself here</p>
-      </section>
-     <section name = "contact" id = "rsec">
-      <h2>Contact</h2>
-      <div id="line"> </div>
-      
-        <ul>
-          <li><a href="mailto:mgp998@gmail.com">Email</a></li>
-          <li><a href="https://ca.linkedin.com/in/matteo-palarchio-30674a126" target = "_blank">LinkedIn</a></li> 
-        </ul>
-        <p> S/o to Andy and Moaaz for hooking me up fat</p>
-      </section>
-    </main>
+    </div>
+
+
     <footer>
-      <p>© Matteo Palarchio</p>
     </footer>
   </body>
 </html>
