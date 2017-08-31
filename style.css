@@ -1,23 +1,14 @@
 
 #line {
-position: relative; 
-height: 3px;  
+position: relative;
+height: 3px;
 background-color: #0066CC;
 }
 
-body { 
+body {
   padding: 2%;
   margin:  auto;
 }
-
-header {
-  top: -10;
-  position: absolute;
-  width: 80%;
-  text-align: center;
-  text-align: left; 
-}
-
 
 main {
  width 100%;
@@ -31,8 +22,9 @@ h1 {
 }
 
 .subtext {
-  font-size: 18px;
-  font-style: italic;
+  font-size: 16px;
+  color: #565656;
+
 }
 
 a {text-decoration:none;}
@@ -43,5 +35,4 @@ a:active {color: #1a88ff;}
 body {
   font-family:'Lato', sans-serif;
 }
-
 
