@@ -10,6 +10,15 @@ body {
   margin:  auto;
 }
 
+header {
+  top: -10;
+  position: absolute;
+  width: 80%;
+  text-align: center;
+  text-align: left;
+}
+
+
 main {
  width 100%;
  marigin-top: 80px; position: fixed; top: 80;
@@ -24,15 +33,29 @@ h1 {
 .subtext {
   font-size: 16px;
   color: #565656;
-
 }
 
-a {text-decoration:none;}
-a:visted {color: #5c7fff;}
-a:hover {color: #1a5bff;}
-a:active {color: #1a88ff;}
+.col-center{
+  margin:0 auto;
+}
+
+a {
+  text-decoration:none;
+}
+
+a:visted {
+  color: #5c7fff;
+}
+
+a:hover {
+  color: #1a5bff;
+}
+
+a:active {
+  color: #1a88ff;
+}
+
 
 body {
   font-family:'Lato', sans-serif;
 }
-
