@@ -18,6 +18,17 @@ header {
   text-align: left;
 }
 
+ul.icons {
+  list-style-type: none;
+  display: inline-flex;
+  vertical-align: bottom;
+  padding-bottom: : 10px;
+}
+
+li {
+  padding: 4px;
+  bottom: 0;
+}
 
 main {
  width 100%;
@@ -56,6 +67,8 @@ a:active {
 }
 
 
+
 body {
+  /*background-color: #78d7e8;*/
   font-family:'Lato', sans-serif;
 }
