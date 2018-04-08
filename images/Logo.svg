@@ -1,0 +1,23 @@
+<svg width="359" height="349" viewBox="0 0 359 349" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Logo</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-2115 -689)">
+<g id="Logo">
+<g id="Ellipse">
+<use xlink:href="#path0_fill" transform="translate(2115 689)" fill="#B490CA"/>
+<use xlink:href="#path0_fill" transform="translate(2115 689)" fill="url(#paint1_linear)"/>
+</g>
+<g id="MP">
+<use xlink:href="#path1_fill" transform="translate(2017 864)" fill="#F2F2F2"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.19824e-14 349 -359 2.13701e-14 359 -2.13701e-14)">
+<stop offset="0" stop-color="#5EE7DF"/>
+<stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<path id="path0_fill" d="M 359 174.5C 359 270.874 278.635 349 179.5 349C 80.3649 349 0 270.874 0 174.5C 0 78.1263 80.3649 0 179.5 0C 278.635 0 359 78.1263 359 174.5Z"/>
+<path id="path1_fill" d="M 154.98 71L 154.98 -68.6484L 165.234 -68.6484L 228.223 58.9883L 287.305 -68.6484L 296.582 -68.6484L 296.582 71L 287.305 71L 287.305 -49.8008L 231.836 71L 223.438 71L 164.258 -50.7773L 164.258 71L 154.98 71ZM 317.832 71L 317.832 -68.6484L 376.426 -68.6484C 403.639 -68.6484 417.246 -55.8555 417.246 -30.2695C 417.246 -5.07422 395.469 10.974 351.914 17.875L 350.156 8.5C 387.266 3.35677 405.82 -9.30599 405.82 -29.4883C 405.82 -49.5404 395.469 -59.5664 374.766 -59.5664L 328.086 -59.5664L 328.086 71L 317.832 71Z"/>
+</defs>
+</svg>

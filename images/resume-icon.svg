@@ -1,0 +1,28 @@
+<svg width="80" height="80" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Doc Icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1632 -596)">
+<g id="Doc Icon">
+<g id="Rectangle">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(1632 596)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(1632 596)" fill="#F2F2F2"/>
+</g>
+</g>
+<g id="resume-icon">
+<use xlink:href="#path2_fill" fill="url(#pattern0)" transform="translate(1648 603)"/>
+</g>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternUnits="objectBoundingBox" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="matrix(0.0227273 0 0 0.0167832 0 -0.0034965)"/>
+</pattern>
+<path id="path0_fill" d="M 0 15C 0 6.71573 6.71573 0 15 0L 65 0C 73.2843 0 80 6.71573 80 15L 80 65C 80 73.2843 73.2843 80 65 80L 15 80C 6.71573 80 0 73.2843 0 65L 0 15Z"/>
+<path id="path1_stroke_2x" d="M 15 4L 65 4L 65 -4L 15 -4L 15 4ZM 76 15L 76 65L 84 65L 84 15L 76 15ZM 65 76L 15 76L 15 84L 65 84L 65 76ZM 4 65L 4 15L -4 15L -4 65L 4 65ZM 15 76C 8.92487 76 4 71.0751 4 65L -4 65C -4 75.4934 4.50659 84 15 84L 15 76ZM 76 65C 76 71.0751 71.0751 76 65 76L 65 84C 75.4934 84 84 75.4934 84 65L 76 65ZM 65 4C 71.0751 4 76 8.92487 76 15L 84 15C 84 4.50659 75.4934 -4 65 -4L 65 4ZM 15 -4C 4.50659 -4 -4 4.50659 -4 15L 4 15C 4 8.92487 8.92487 4 15 4L 15 -4Z"/>
+<path id="path2_fill" d="M 0 0L 48 0L 48 65L 0 65L 0 0Z"/>
+<image id="image0" width="44" height="60" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAA8CAYAAAAdUliaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAWJAAAFiQFtaJ36AAABWWlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+CiAgICAgICAgIDx0aWZmOk9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgpMwidZAAADsUlEQVRoBe2a3WoTQRiGM5tN09Im9CLiHeQCAq2CJx7oieAF6EEVURA8ED0WRHqkrXfQIJ4K/rQX0NMcBaGXkDb/ye6s7zvuF7bNkm1hN8lIBpYvu/PzPfPuNzPbzqiLi4sgl30yPvL5vNJaPy6VSofHx8durVbzlVI38u9GWVFZB8GN6kerJ/0Gq3bX19cPKFK5XP4CX/TvJVWM5keBg0Kh4Lium8sCGuo6nU4n6Pf7uc3NzcNWq+VAoANCw14bWoD1xsaG0+12P6A33x3HKfm+r+Ek2rmp3yiTm1UmzFeAGqDNW2hgH1bBjw+FP7fbbUJ/CpW+Xnjw9eDyUIn23hRVig8A+AAKB7C8xvR5fn6+RxeMadyqRHcCjPhi5UesgIrFsAE2kta1xrYJPRgMDDR8C/TT0G8+EVqAUZCNPAwrSqjwNrXEzrMxgWZMCzSePWMeysyEdlhoXomDi9CY1r6ORqP7jH/EtAtwb2trax9v+DnK+OBxUC42POYKTGEEGoPu23g8NmMGz1wo7KMjH6H4C0LX6/V46HmGRPRNnp6eFngPVe+CQYfhIYP/JfOOjo6mw2NRwATCazfQgL0NDg/T3SSmcf8qFnqRwFegdwQa4TFCZwj/egp60cAEajQaZsrD6rcDWFHaQCNk3oQd+xfTywAcApnwIDSYdK/Xo8JDKg3otwI991mCjuMSZgYuIoXt7e1fWMTueJ6Xw3fNGsMDM8o7QqOMzmSBiAO6zjOBhv0JpXcB/WMNiWFCaFi9NApLhwjNKS9Uenc4HHaQl4flrPJk6YAJXq1Wx81mswjo37h9jwVF8csPqbuUwCSrVCqGEIr3eQ9LhZ2lBSZkmC59lNsAPPmbjSrbAGyERjgwJOwBlviwRmGGA5M1wIRdxTBVyCpZGRIUw5oY5pRmFbB1IWGdwiYebIphhoRV8zAVtupbYhXDMiiyttYsHCLECliUyMpao/Bqac4qBK62a01ICLg1wNZ9S3BptupbYjVLyKDI2loz6ESIFbAokbb9vwbdyclJ2gKl1t6lbS/sj5l/z+O0EzelA4DHHgFIzfuMhs7OzsjGs0BmnElIXALGwzbbgB3SLjiZg0vQrUcOrnJMAqxwdoEPa9hxHPKQEjb1NE9YcUfSFEz4zbJpJfqEaHzbLdgq78Fkmlfcaw4dBcViUeEomOkNCs70zx4nlZnZQEKmtI+TKzlcPtjyOCv0JyqLwm6jRibKxh9fSfCRRTbFpLQT9aLAdMgtftplSxOov6FkBcUSCSVQAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
