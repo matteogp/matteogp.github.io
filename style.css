@@ -1,74 +1,41 @@
 
-#line {
-position: relative;
-height: 3px;
-background-color: #0066CC;
+.bkrg-img {
+  background-image: url('./images/shannon_falls.jpeg');
+  height: 100%;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-body {
-  padding: 2%;
-  margin:  auto;
+.caption span.border {
+  color: #f2f2f2;
+  padding: 3px;
+  font-size: 80px;
+  letter-spacing: 5px;
+  font-family: sansation-light;
 }
 
-header {
-  top: -10;
+.caption {
   position: absolute;
-  width: 80%;
+  left: 0;
+  top: 40%;
+  width: 100%;
   text-align: center;
-  text-align: left;
+  color: #000;
 }
 
-ul.icons {
-  list-style-type: none;
-  display: inline-flex;
-  vertical-align: bottom;
-  padding-bottom: : 10px;
+@font-face {
+    font-family: sansation-light;
+    src: url('./font/Sansation_Light.ttf');
 }
 
-li {
-  padding: 4px;
-  bottom: 0;
+div {
+  display: block;
 }
 
-main {
- width 100%;
- marigin-top: 80px; position: fixed; top: 80;
-}
-
-h1 {
-  font-size: 36px;
-  margin-bottom: 8px;
-  color: #0066CC;
-}
-
-.subtext {
-  font-size: 16px;
-  color: #565656;
-}
-
-.col-center{
-  margin:0 auto;
-}
-
-a {
-  text-decoration:none;
-}
-
-a:visted {
-  color: #5c7fff;
-}
-
-a:hover {
-  color: #1a5bff;
-}
-
-a:active {
-  color: #1a88ff;
-}
-
-
-
-body {
-  /*background-color: #78d7e8;*/
-  font-family:'Lato', sans-serif;
+body, html {
+  height: 100%;
+  margin:  0;
+  display: block;
 }

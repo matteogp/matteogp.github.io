@@ -1,0 +1,50 @@
+<svg width="80" height="80" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Mail Icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1751 -596)">
+<g id="Mail Icon">
+<g id="Rectangle">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(1751 596)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(1751 596)" fill="#F2F2F2"/>
+</g>
+</g>
+<g id="Mail Icon">
+<g id="Rectangle 2">
+<mask id="mask1_alpha" mask-type="alpha">
+<g id="mask0 outline ins">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(1761 618.368)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Group" mask="url(#mask1_alpha)">
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(1758.13 615.495)" fill="#F2F2F2"/>
+</g>
+</g>
+</g>
+<g id="Line">
+<g id="Vector">
+<use xlink:href="#path4_fill" transform="matrix(0.869826 0.493359 -0.495483 0.868617 1763.49 618)" fill="#F2F2F2"/>
+</g>
+</g>
+<g id="Line">
+<g id="Vector">
+<use xlink:href="#path5_fill" transform="matrix(-0.8632 0.504863 -0.507003 -0.861944 1818.99 620.844)" fill="#F2F2F2"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 15C 0 6.71573 6.71573 0 15 0L 65 0C 73.2843 0 80 6.71573 80 15L 80 65C 80 73.2843 73.2843 80 65 80L 15 80C 6.71573 80 0 73.2843 0 65L 0 15Z"/>
+<path id="path1_stroke_2x" d="M 15 4L 65 4L 65 -4L 15 -4L 15 4ZM 76 15L 76 65L 84 65L 84 15L 76 15ZM 65 76L 15 76L 15 84L 65 84L 65 76ZM 4 65L 4 15L -4 15L -4 65L 4 65ZM 15 76C 8.92487 76 4 71.0751 4 65L -4 65C -4 75.4934 4.50659 84 15 84L 15 76ZM 76 65C 76 71.0751 71.0751 76 65 76L 65 84C 75.4934 84 84 75.4934 84 65L 76 65ZM 65 4C 71.0751 4 76 8.92487 76 15L 84 15C 84 4.50659 75.4934 -4 65 -4L 65 4ZM 15 -4C 4.50659 -4 -4 4.50659 -4 15L 4 15C 4 8.92487 8.92487 4 15 4L 15 -4Z"/>
+<path id="path2_fill" d="M 0 0L 60 0L 60 35.6319L 0 35.6319L 0 0Z"/>
+<path id="path3_fill" d="M 2.87081 2.87354L 2.87081 0L 0 0L 0 2.87354L 2.87081 2.87354ZM 62.8708 2.87354L 65.7416 2.87354L 65.7416 0L 62.8708 0L 62.8708 2.87354ZM 62.8708 38.5054L 62.8708 41.3789L 65.7416 41.3789L 65.7416 38.5054L 62.8708 38.5054ZM 2.87081 38.5054L 0 38.5054L 0 41.3789L 2.87081 41.3789L 2.87081 38.5054ZM 2.87081 5.74708L 62.8708 5.74708L 62.8708 0L 2.87081 0L 2.87081 5.74708ZM 60 2.87354L 60 38.5054L 65.7416 38.5054L 65.7416 2.87354L 60 2.87354ZM 62.8708 35.6319L 2.87081 35.6319L 2.87081 41.3789L 62.8708 41.3789L 62.8708 35.6319ZM 5.74163 38.5054L 5.74163 2.87354L 0 2.87354L 0 38.5054L 5.74163 38.5054Z"/>
+<path id="path4_fill" d="M 0 2.87287L 33.4165 2.87287L 33.4165 0L 0 0L 0 2.87287Z"/>
+<path id="path5_fill" d="M 0 2.87284L 32.1284 2.87284L 32.1284 0L 0 0L 0 2.87284Z"/>
+</defs>
+</svg>
