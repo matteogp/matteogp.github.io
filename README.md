@@ -2,6 +2,5 @@
 Personal Website
 
 ## TO DO
-- Improve design
-- Add more projects
-- Create a blog
+- Add projects section?
+- Create a blog>
